@@ -2,7 +2,7 @@
 
 Moving signals through vectors, pixels, and audio buffers for over two decades. 
 
-I build what I need to exist. Hard to hire, self-fueled.
+I build what I need to exist. I am agnostic, hard to hire, self-fueled and aware of others.
 
 ---
 
