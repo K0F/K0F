@@ -1,16 +1,24 @@
-## Hi there 👋
+# K0F
 
-<!--
-**K0F/K0F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coding since PASCAL, not getting much better ever since, born in Prague - Czechoslovakia
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Low-level digital signal processing (DSP) and audio synthesis modules
+* Real-time graphics pipelines via GLFW and hardware-accelerated OpenGL context layers
+* Custom extensions and engine objects for SuperCollider (`scsynth`)
+* Minimalist, dependency-free C/C++ architecture patterns
+
+## Technical Stack
+
+* **Languages:** C, C++, Pascal
+* **Frameworks & Graphics:** OpenGL, GLFW
+* **Audio Engines:** SuperCollider (Plugin API)
+* **Environments:** Linux, Command-Line Toolchains
+
+## Repositories
+
+### GLFW_SuperCollider_XYScope
+Hardware-accelerated XY vector oscilloscope for SuperCollider using GLFW and OpenGL.
+* Status: Active development
+* Stack: C++, OpenGL, GLFW, SuperCollider API
