@@ -1,24 +1,17 @@
-# K0F
+# Kryštof Pešek (K0F)
 
-Coding since PASCAL, not getting much better ever since, born in Prague - Czechoslovakia
+Moving signals through vectors, pixels, and audio buffers for over two decades. 
 
-## Current Focus
+I build what I need to exist. Hard to hire, self-fueled.
 
-* Low-level digital signal processing (DSP) and audio synthesis modules
-* Real-time graphics pipelines via GLFW and hardware-accelerated OpenGL context layers
-* Custom extensions and engine objects for SuperCollider (`scsynth`)
-* Minimalist, dependency-free C/C++ architecture patterns
+---
 
-## Technical Stack
+### Current Frequencies
 
-* **Languages:** C, C++, Pascal
-* **Frameworks & Graphics:** OpenGL, GLFW
-* **Audio Engines:** SuperCollider (Plugin API)
-* **Environments:** Linux, Command-Line Toolchains
+* **XYScope** — Hardware-accelerated XY vector oscilloscope plugin for `scsynth`.
+* **NurbsRayPlotter** — Geometry translated into real-time audio waveforms.
+* **The Observatory** — Continuous monitoring of environmental rhythms and planetary grid frequencies.
 
-## Repositories
+### Substrate
 
-### GLFW_SuperCollider_XYScope
-Hardware-accelerated XY vector oscilloscope for SuperCollider using GLFW and OpenGL.
-* Status: Active development
-* Stack: C++, OpenGL, GLFW, SuperCollider API
+C • C++ • SuperCollider • Processing • OpenGL • Linux
