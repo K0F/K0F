@@ -6,7 +6,7 @@ I build what I need to exist. I am agnostic, hard to hire, self-fueled and socia
 
 ---
 
-### Current Frequencies
+### Current tune
 
 * **rawsnd** — Dead simple C synthesizer using unix pipes.
 * **supercollider** — A pool of various sound compositions and sketches.
@@ -15,7 +15,8 @@ I build what I need to exist. I am agnostic, hard to hire, self-fueled and socia
 * **XYScope** — Hardware-accelerated XY vector oscilloscope plugin for `scsynth`.
 * **NurbsRayPlotter** — Geometry translated into real-time audio waveforms.
 * **The Observatory** — Continuous monitoring of environmental rhythms and planetary grid frequencies.
+* and more
 
-### Substrate
+### Mostly build with
 
-C • C++ • SuperCollider • Processing • OpenGL • Linux
+C • SuperCollider • Processing • OpenGL • GNU/Linux
