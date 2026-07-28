@@ -8,6 +8,9 @@ I build what I need to exist. I am agnostic, hard to hire, self-fueled and socia
 
 ### Current Frequencies
 
+* **rawsnd** — Dead simple C synthesizer using unix pipes.
+* **supercollider** — A pool of various sound compositions and sketches.
+* **2026** — 20 years of Processing sketches.
 * **gomotor** — Custom build V-plotter firmware and SVG drawer.
 * **XYScope** — Hardware-accelerated XY vector oscilloscope plugin for `scsynth`.
 * **NurbsRayPlotter** — Geometry translated into real-time audio waveforms.
