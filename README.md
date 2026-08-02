@@ -6,7 +6,7 @@ I build what I need to exist. I am agnostic, hard to hire, self-fueled and socia
 
 ---
 
-### Current tune
+### Current WIPs
 
 * **rawsnd** — Dead simple C synthesizer using unix pipes.
 * **supercollider** — A pool of various sound compositions and sketches.
