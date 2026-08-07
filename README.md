@@ -17,6 +17,10 @@ I build what I need to exist. I am agnostic, hard to hire, self-fueled and socia
 * **The Observatory** — Continuous monitoring of environmental rhythms and planetary grid frequencies.
 * and more
 
+### Support
+
+[Thanks for tips](https://ko-fi.com/krystofpesek)
+
 ### Mostly build with
 
 C • SuperCollider • Processing • OpenGL • GNU/Linux
