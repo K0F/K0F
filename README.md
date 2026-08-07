@@ -19,7 +19,7 @@ I build what I need to exist. I am agnostic, hard to hire, self-fueled and socia
 
 ### Support
 
-[Thanks for tips](https://ko-fi.com/krystofpesek)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/krystofpesek)
 
 ### Mostly build with
 
