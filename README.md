@@ -9,7 +9,7 @@ I build what I need to exist. I am agnostic, hard to hire, self-fueled and socia
 ### Current WIPs
 
 * **[rawsnd](https://github.com/K0F/rawsnd)** — Dead simple C synthesizer using unix pipes.
-* **[supercollider](https://github.com/K0F/SuperCollider)** — A pool of various sound compositions and sketches.
+* **[supercollider](https://github.com/k-o-l-e-k-t-i-v/supercollider)** — A pool of various sound compositions and sketches.
 * **[2026](https://github.com/K0F/2026)** — 20 years of Processing sketches.
 * **[gomotor](https://github.com/K0F/gomotor)** — Custom build V-plotter firmware and SVG drawer.
 * **[XYScope](https://github.com/K0F/GLFW_SuperCollider_XYScope)** — Hardware-accelerated XY vector oscilloscope plugin for `scsynth`.
