@@ -4,6 +4,19 @@ Moving signals through vectors, pixels, and audio buffers for over two decades.
 
 I build what I need to exist. I am agnostic, hard to hire, self-fueled and social.
 
+<!--
+
+          *                 *
+      *       *         *       *
+        *       *     *       *
+     *    *  K 0  F   *    *         { SinOsc.ar([333, 334]) }.play
+        *       *     *       *
+      *       *         *       *
+          *                 *
+                               // you found the scope
+
+-->
+
 ---
 
 ### Current WIPs
@@ -29,3 +42,14 @@ I build what I need to exist. I am agnostic, hard to hire, self-fueled and socia
 ### Mostly build with
 
 C • SuperCollider • Processing • OpenGL • GNU/Linux
+
+<details>
+<summary>.</summary>
+
+```
+{ SinOsc.ar(LFNoise0.kr([8, 9]).range(100, 2000), 0, 0.15) }.scope
+```
+
+signal over noise.
+
+</details>
