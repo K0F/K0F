@@ -20,11 +20,10 @@ I build what I need to exist. I am agnostic, hard to hire, self-fueled and socia
 ---
 
 ### Current WIPs
-
+* **[GRAM](https://github.com/K0F/gram)** — An ultimate structuralist a/v toolkit.
 * **[processing.h](https://github.com/K0F/processing.h)** — Processing sketches transpiled to pure C on Raylib.
 * **[OperatorOmikron](https://github.com/K0F/OperatorOmikron)** — Abstract math with Greek letters as numbers and operators.
 * **[tj](https://github.com/K0F/tj)** — Single-file C tool rendering DJ mixes from text EDLs.
-* **[míchačka](https://github.com/K0F/m-cha-ka)** — Generative composition driver planning layered mixes for `tj`.
 * **[NTP_MPD_Player](https://github.com/K0F/NTP_MPD_Player)** — Terminal MPD client locked to wall-clock time via NTP.
 * **[rawsnd](https://github.com/K0F/rawsnd)** — Dead simple C synthesizer using unix pipes.
 * **[supercollider](https://github.com/k-o-l-e-k-t-i-v/supercollider)** — A pool of various sound compositions and sketches.
